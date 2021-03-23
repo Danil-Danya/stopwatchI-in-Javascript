@@ -38,7 +38,6 @@ let links = document.querySelectorAll('.tabsItem'),
         })
     }
 
-
 // Скундомер:
 
 //Переменные
